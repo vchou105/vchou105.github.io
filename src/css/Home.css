@@ -1,8 +1,33 @@
 body {
     font-family: "Manrope", "sans-serif";
-    color: white;
+}
+
+.landing {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 2em; 
 }
 
 .name {
-    font-size: 2rem;
+    color: rgb(222, 213, 255);
+    font-size: 3.5rem;
+}
+
+.name:hover {
+    cursor: pointer;
+    /* background-color: white; */
+}
+
+.intro {
+    color: papayawhip;
+    color: white;
+    margin-left: 2.5em;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.experience{
+    margin-top: 1em;
 }
