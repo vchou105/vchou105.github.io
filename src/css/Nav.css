@@ -1,0 +1,17 @@
+
+.navigation {
+    margin-top: 1rem;
+}
+
+.name {
+    color: rgb(222, 213, 255);
+    font-size: 3rem;
+    /* text-align: left; */
+    margin-left: 2.5rem;
+}
+
+.name:hover {
+    cursor: pointer;
+    /* background-color: white; */
+}
+
