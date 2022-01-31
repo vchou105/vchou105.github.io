@@ -1,0 +1,58 @@
+body {
+    font-family: "Manrope", sans-serif;
+}
+
+.landing {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 2em; 
+}
+
+.intro {
+    /* color: papayawhip; */
+    /* color: white; */
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    margin-left: 2.5em;
+}
+
+.caida {
+    color: rgb(245, 159, 0);
+    font-style: italic;
+}
+
+.caida:hover {
+    font-weight: bold;
+}
+
+.cssa {
+    color: #133b51;
+    font-style: italic;
+}
+
+.cssa:hover{
+    font-weight: bold;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+.cols {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.equal-width {
+    width: 60%;
+}
+
+.experience{
+    margin-top: 1em;
+}

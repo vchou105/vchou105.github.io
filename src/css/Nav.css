@@ -1,0 +1,23 @@
+
+.navigation {
+    margin-top: 1rem;
+}
+
+.name {
+    color: #525470;
+    font-size: 2rem;
+    /* text-align: left; */
+    margin-left: 2.5rem;
+    text-decoration: none;
+}
+
+.name-dark{
+    color: rgb(222, 213, 255);
+}
+
+.name:hover {
+    cursor: pointer;
+    color: rgb(168, 153, 223);
+    /* background-color: white; */
+}
+
