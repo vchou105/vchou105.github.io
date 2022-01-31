@@ -1,16 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
-import Home from "./components/Home.js";
+import { Routes, Route, Redirect } from 'react-router-dom'
+import Home from "./components/Home";
 import Nav from "./components/Nav.js";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-dark"> */}
         <Nav/>
-        <Home/> 
+        <Routes>
+          {/* <Route exact path='/' component={Home}/>  */}
+          <Route path='/' element={<Home/>} />
+        </Routes>
         {/* <span className="">🥐🥞🍦🍰</span> */}
-      </header>
+      {/* </header> */}
     </div>
   );
 }

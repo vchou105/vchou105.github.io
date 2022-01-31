@@ -1,12 +1,20 @@
 import React from 'react';
-// import { Link } from 'react-router-dom';
+import { Outlet, Link, useNavigate } from 'react-router-dom';
 import "../css/Nav.css";
 
 function Nav() {
+    // let navigate = useNavigate();
+
+    // function handleClick() {
+    //     navigate('/');
+    // }
 
     return (
         <div className="navigation">
-            <span className="name">Vicky Chou</span>
+            <Link to="/" className="name">
+                <span>Vicky Chou</span>
+            </Link>
+            <Outlet/>
         </div>
     )
 }

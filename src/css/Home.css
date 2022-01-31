@@ -1,5 +1,5 @@
 body {
-    font-family: "Manrope", "sans-serif";
+    font-family: "Manrope", sans-serif;
 }
 
 .landing {
@@ -10,8 +10,8 @@ body {
 }
 
 .intro {
-    color: papayawhip;
-    color: white;
+    /* color: papayawhip; */
+    /* color: white; */
     margin-left: 2.5em;
     text-align: left;
     display: flex;

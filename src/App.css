@@ -1,5 +1,11 @@
 .App {
   /* text-align: center; */
+  padding: 1rem 2.5rem;
+  font-size: 1.4rem;
+  /* background-color: papayawhip; */
+  /* background-size: cover; */
+  min-height: 100vh;
+  /* height: 100%; */
 }
 
 .App-logo {
@@ -13,7 +19,7 @@
   }
 }
 
-.App-header {
+.App-dark {
   background-color: #2b334b;
   min-height: 100vh;
   display: flex;
