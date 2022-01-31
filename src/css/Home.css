@@ -12,14 +12,31 @@ body {
 .intro {
     /* color: papayawhip; */
     /* color: white; */
-    margin-left: 2.5em;
     text-align: left;
     display: flex;
     flex-direction: column;
 }
 
+.content {
+    margin-left: 2.5em;
+}
+
 .caida {
     color: rgb(245, 159, 0);
+    font-style: italic;
+}
+
+.caida:hover {
+    font-weight: bold;
+}
+
+.cssa {
+    color: #133b51;
+    font-style: italic;
+}
+
+.cssa:hover{
+    font-weight: bold;
 }
 
 p {
