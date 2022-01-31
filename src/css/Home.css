@@ -39,6 +39,16 @@ body {
     font-weight: bold;
 }
 
+.email {
+    color: rgb(51, 179, 196);
+}
+
+.email:hover {
+    background-color: papayawhip;
+    border-radius: 5px;
+    /* background-color: rgb(222, 213, 255); */
+}
+
 p {
     line-height: 1.5em;
 }

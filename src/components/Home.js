@@ -33,7 +33,7 @@ function Home() {
                     <li>CodePath</li>
                     <li>Design for America...</li>
                 </ul>
-                <p className='content'>Coming Soon!! I would love to chat about my experiences - reach me at <a href="mailto:v2chou@ucsd.edu">v2chou@ucsd.edu</a> :)</p>
+                <p className='content'>Coming Soon!! I would love to chat about my experiences - reach me at <a className="email" href="mailto:v2chou@ucsd.edu">v2chou@ucsd.edu</a> :)</p>
             </div>
         </div>
     )
