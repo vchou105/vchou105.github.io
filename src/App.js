@@ -10,7 +10,6 @@ function App() {
       {/* <header className="App-dark"> */}
         <Nav/>
         <Routes>
-          {/* <Route exact path='/' component={Home}/>  */}
           <Route path='/' element={<Home/>} />
         </Routes>
         {/* <span className="">🥐🥞🍦🍰</span> */}
