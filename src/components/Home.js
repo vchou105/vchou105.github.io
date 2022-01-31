@@ -12,7 +12,7 @@ function Home() {
                     <br/><br/>
                     I'm currently an <a href="https://beta.nsf.gov/funding/opportunities/research-experiences-undergraduates-reu">
                         REU</a> web developer intern at <a href="https://www.caida.org/" className='caida'>
-                            <strong>Center for Applied Internet Data Analysis</strong></a> (CAIDA).
+                            Center for Applied Internet Data Analysis</a> (CAIDA).
                     </p>
                    
                 </div>
