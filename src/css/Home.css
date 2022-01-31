@@ -18,6 +18,24 @@ body {
     flex-direction: column;
 }
 
+.caida {
+    color: rgb(245, 159, 0);
+}
+
+p {
+    line-height: 1.5em;
+}
+
+.cols {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.equal-width {
+    width: 60%;
+}
+
 .experience{
     margin-top: 1em;
 }

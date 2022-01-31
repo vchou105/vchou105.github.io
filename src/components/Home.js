@@ -5,12 +5,30 @@ function Home() {
 
     return (
         <div className="landing">
+            <h1>Welcome!👋</h1>
             <div className="intro">
-                <p>Hello! I am a cognitive science student from UC San Diego ('23) and enjoy developing a meaningful user experience. Currently an REU web developer intern at Center for Applied Internet Data Analysis(CAIDA).</p>
-                <p>Besides school, work, and clubs, I love being a badminton, cookie butter, and corgi butt lover.</p>
+                <div className='cols'>
+                    <p className="">I'm Vicky, a cognitive science student from <strong>UC San Diego</strong> ('23) interested in exploring the design and development behind meaningful user experiences.
+                    <br/><br/>
+                    I'm currently an <a href="https://beta.nsf.gov/funding/opportunities/research-experiences-undergraduates-reu">
+                        REU</a> web developer intern at <a href="https://www.caida.org/" className='caida'>
+                            <strong>Center for Applied Internet Data Analysis</strong></a> (CAIDA).
+                    </p>
+                   
+                </div>
+                <p>Besides learning, working, and volunteering, I also love:
+                    <ul>
+                        <li>badminton🏸</li>
+                        <li>cookie butter🤤🐽</li>
+                        <li>eating too many sweets🥞🥐🍩🍰🍦</li>
+                        <li>corgi butts! 🍞🐶</li>
+                    </ul>
+                    {/* <span>My hobbies summed up in 3 emojis:</span> */}
+                </p>
             </div>
             <div className="experience">
-                Featured work under: CAIDA, CodePath, Latinas Contra Cancer
+                Experiences: CAIDA, CodePath, Design for America, Latinas Contra Cancer
+                
             </div>
         </div>
     )
