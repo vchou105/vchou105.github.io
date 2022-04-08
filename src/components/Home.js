@@ -21,7 +21,7 @@ function Home() {
                         <li>badminton🏸</li>
                         <li>cookie butter🤤🐽</li>
                         <li>eating too many sweets🥞🥐🍩🍰🍦</li>
-                        <li>corgi butts! 🍞🐶</li>
+                        <li>corgi butts! 🍞</li>
                     </ul>
                     {/* <span>My hobbies summed up in 3 emojis:</span> */}                
             </div>

@@ -12,7 +12,7 @@ function Nav() {
     return (
         <div className="navigation">
             <Link to="/" className="name">
-                <span>Vicky Chou</span>
+                <span>🐶 Vicky Chou</span>
             </Link>
             <Outlet/>
         </div>
