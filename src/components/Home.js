@@ -18,13 +18,13 @@ function Home() {
                     </p>
                 </div>
                 {/* <p>Besides learning, working, and volunteering, I also love</p> */}
-                <p>I also enjoy...</p>
+                {/* <p>I also enjoy...</p>
                     <ul>
                         <li>badminton🏸</li>
                         <li>cookie butter🤤🐽</li>
                         <li>eating too many sweets🥞🍦🥐</li>
                         <li>corgi butts! 🍞</li>
-                    </ul>
+                    </ul> */}
                     {/* <span>My hobbies summed up in 3 emojis:</span> */}                
             </div>
             <div className="section">
