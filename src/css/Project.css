@@ -31,7 +31,6 @@
 
 img {
     height: 300px;
-    /* border-radius: inherit; */
     transition: transform .3s ease-in-out;
     /* filter: brightness(90%); */
 }

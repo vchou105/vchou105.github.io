@@ -6,11 +6,10 @@ body {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
-    margin: 2em 4em; 
+    margin: 1.5em 4em; 
 }
 
 .intro {
-    /* color: papayawhip; */
     /* color: white; */
     text-align: left;
     display: flex;
@@ -18,7 +17,7 @@ body {
 }
 
 .content {
-    margin: 0 3.5em;
+    margin: 0 2.5em;
 }
 
 ul {
@@ -69,4 +68,8 @@ p {
 
 .section{
     margin-top: 1em;
+}
+
+.projects {
+    display: flex;
 }
