@@ -6,7 +6,7 @@ const ProjectData = [
         name: "Hanna's Creamery & Cafe",
         img: HannasCreamery,
         text: "Engaging Online Traffic for Hanna's Creamery & Cafe",
-        url: "/hanna",
+        url: "/hannas",
     },
     {
         name: "Virtual Walkathon",

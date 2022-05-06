@@ -11,13 +11,13 @@ function Project(props) {
     
     return (
         <div className="card">
-            {/* <Link to={`${props.item.url}`} className="name"> */}
+            <Link to={`${props.item.url}`} className="">
             {/* <span>{props.item.name}</span> */}
             <span className="thumbnail">
                 <img src={props.item.img} alt={props.item.name}/>
             </span>
             <span className="text">{props.item.text}</span>
-            {/* </Link> */}
+            </Link>
             {/* <Outlet/> */}
         </div>
     )

@@ -16,6 +16,7 @@
     display: flex;
     box-shadow: 0px 0px 20px 2px #e2e2e2;
     border-radius: 10px;
+    margin-bottom: 0.5rem;
 }
 
 .thumbnail:hover {
@@ -23,10 +24,12 @@
     border-radius: 0;
 }
 
+.card a {
+    text-align: center;
+}
 .text{
     /* text-indent: 1%; */
-    text-align: center;
-    margin-top: 5px;
+    font-size: 1.1rem;
 }
 
 img {
