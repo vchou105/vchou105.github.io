@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.85345773.css",
-    "main.js": "/static/js/main.eecbf793.js",
+    "main.css": "/static/css/main.00d11e48.css",
+    "main.js": "/static/js/main.e82567fa.js",
     "static/js/787.3989a995.chunk.js": "/static/js/787.3989a995.chunk.js",
     "static/media/VirtualWalkathonPreview.png": "/static/media/VirtualWalkathonPreview.7f17948e10939d952367.png",
+    "static/media/WalkathonFinal.png": "/static/media/WalkathonFinal.7b01b62877246cfdc1fc.png",
     "static/media/HannasCreameryPreview.png": "/static/media/HannasCreameryPreview.124e202b247de0408f3d.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.85345773.css.map": "/static/css/main.85345773.css.map",
-    "main.eecbf793.js.map": "/static/js/main.eecbf793.js.map",
+    "main.00d11e48.css.map": "/static/css/main.00d11e48.css.map",
+    "main.e82567fa.js.map": "/static/js/main.e82567fa.js.map",
     "787.3989a995.chunk.js.map": "/static/js/787.3989a995.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85345773.css",
-    "static/js/main.eecbf793.js"
+    "static/css/main.00d11e48.css",
+    "static/js/main.e82567fa.js"
   ]
 }
