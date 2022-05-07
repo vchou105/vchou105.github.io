@@ -42,3 +42,7 @@ img:hover {
     transform: scale(1.25);
     filter: brightness(100%);
 }
+
+.caseStudy {
+    margin-left: 1rem;
+}
