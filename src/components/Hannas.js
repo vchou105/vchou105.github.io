@@ -5,7 +5,9 @@ import HannasCreamery from '../img/HannasCreameryPreview.png';
 function Hannas() {
     return (
         <div className="caseStudy">
-            <img src={HannasCreamery} alt="Hanna's Creamery Project"/>
+            <div className="caseStudy-hero">
+                <img src={HannasCreamery} alt="Hanna's Creamery Project"/>
+            </div>
             <section>
                 <h2>Overview</h2>
                 <h2>Introduction</h2>

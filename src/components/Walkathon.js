@@ -1,10 +1,15 @@
 import React from 'react';
 import VirtualWalkathon from '../img/VirtualWalkathonPreview.png';
+import finalPrototype from '../img/WalkathonFinal.png';
+import "../css/Project.css";
 
 function Walkathon() {
     return (
-        <div>
-            <img src={VirtualWalkathon} alt="Virtual Walkathon Project" />
+        <div className="caseStudy">
+            <div className="caseStudy-hero">
+                <img src={VirtualWalkathon} alt="Virtual Walkathon Project" />
+                {/* <img src={finalPrototype} /> */}
+            </div>
             <h2>Overview</h2>
             <h2>Introduction</h2>
             <h2>Problem</h2>

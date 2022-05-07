@@ -46,3 +46,11 @@ img:hover {
 .caseStudy {
     margin-left: 1rem;
 }
+
+.caseStudy-hero {
+    display: flex;    
+}
+
+.caseStudy-hero img {
+    margin:auto;
+}
