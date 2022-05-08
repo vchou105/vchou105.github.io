@@ -7,7 +7,7 @@ function Walkathon() {
     return (
         <div className="caseStudy">
             <div className="caseStudy-hero">
-                <img src={VirtualWalkathon} alt="Virtual Walkathon Project" />
+                <img src={VirtualWalkathon} alt="Virtual Walkathon Project"/>
                 {/* <img src={finalPrototype} /> */}
             </div>
             <h2>Overview</h2>

@@ -32,25 +32,29 @@
     font-size: 1.1rem;
 }
 
-img {
+.thumbnail img {
     height: 300px;
     transition: transform .3s ease-in-out;
     /* filter: brightness(90%); */
 }
 
-img:hover {
+.thumbnail img:hover {
     transform: scale(1.25);
     filter: brightness(100%);
 }
 
 .caseStudy {
-    margin-left: 1rem;
+    width: 95%;
+    margin: auto;
+    margin-top: 2rem;
 }
 
 .caseStudy-hero {
+    margin-top: 1rem;
     display: flex;    
 }
 
 .caseStudy-hero img {
-    margin:auto;
+    width: 100%;
+    height: 100%;
 }
