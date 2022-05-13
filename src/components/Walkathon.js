@@ -1,6 +1,6 @@
 import React from 'react';
 import VirtualWalkathon from '../img/VirtualWalkathonPreview.png';
-import finalPrototype from '../img/WalkathonFinal.png';
+import finalPrototype from '../img/VirtualWalkathon/WalkathonFinal.png';
 import "../css/Project.css";
 
 function Walkathon() {
