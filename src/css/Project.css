@@ -49,12 +49,21 @@
     margin-top: 2rem;
 }
 
-.caseStudy-hero {
+.img-100 {
     margin-top: 1rem;
     display: flex;    
 }
 
-.caseStudy-hero img {
+.img-100 img {
     width: 100%;
     height: 100%;
+}
+
+.persona {
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+}
+
+.persona img {
+    width: 50%;
 }
