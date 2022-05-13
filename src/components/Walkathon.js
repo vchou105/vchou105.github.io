@@ -8,7 +8,6 @@ function Walkathon() {
         <div className="caseStudy">
             <div className="caseStudy-hero">
                 <img src={VirtualWalkathon} alt="Virtual Walkathon Project"/>
-                {/* <img src={finalPrototype} /> */}
             </div>
             <h2>Overview</h2>
             <h2>Introduction</h2>
@@ -26,6 +25,7 @@ function Walkathon() {
             <h2>Mid-Fidelity Prototype</h2>
             <h2>A/B Testing</h2>
             <h2>Final Prototype</h2>
+                <img src={finalPrototype} />
             <h2>Reflection</h2>
         </div>
     )
