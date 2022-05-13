@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.93152a28.css",
-    "main.js": "/static/js/main.e82567fa.js",
-    "static/js/787.3989a995.chunk.js": "/static/js/787.3989a995.chunk.js",
+    "main.js": "/static/js/main.929c3cec.js",
+    "static/js/787.1fce1d59.chunk.js": "/static/js/787.1fce1d59.chunk.js",
     "static/media/VirtualWalkathonPreview.png": "/static/media/VirtualWalkathonPreview.7f17948e10939d952367.png",
     "static/media/WalkathonFinal.png": "/static/media/WalkathonFinal.7b01b62877246cfdc1fc.png",
     "static/media/HannasCreameryPreview.png": "/static/media/HannasCreameryPreview.124e202b247de0408f3d.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.93152a28.css.map": "/static/css/main.93152a28.css.map",
-    "main.e82567fa.js.map": "/static/js/main.e82567fa.js.map",
-    "787.3989a995.chunk.js.map": "/static/js/787.3989a995.chunk.js.map"
+    "main.929c3cec.js.map": "/static/js/main.929c3cec.js.map",
+    "787.1fce1d59.chunk.js.map": "/static/js/787.1fce1d59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93152a28.css",
-    "static/js/main.e82567fa.js"
+    "static/js/main.929c3cec.js"
   ]
 }
