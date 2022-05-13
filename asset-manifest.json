@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.93152a28.css",
-    "main.js": "/static/js/main.929c3cec.js",
+    "main.css": "/static/css/main.240029ff.css",
+    "main.js": "/static/js/main.6f0dfa6a.js",
     "static/js/787.1fce1d59.chunk.js": "/static/js/787.1fce1d59.chunk.js",
     "static/media/VirtualWalkathonPreview.png": "/static/media/VirtualWalkathonPreview.7f17948e10939d952367.png",
     "static/media/WalkathonFinal.png": "/static/media/WalkathonFinal.7b01b62877246cfdc1fc.png",
+    "static/media/MoodboardA.png": "/static/media/MoodboardA.40ffb6620daaaabbbbbb.png",
+    "static/media/MoodboardB.png": "/static/media/MoodboardB.0bfbc437f31e31c15df0.png",
+    "static/media/FamilyPersona.png": "/static/media/FamilyPersona.a2e1670bd490d11c8448.png",
+    "static/media/CateringPersona.png": "/static/media/CateringPersona.be0b2f048d9036d00861.png",
     "static/media/HannasCreameryPreview.png": "/static/media/HannasCreameryPreview.124e202b247de0408f3d.png",
+    "static/media/StudentPersona.png": "/static/media/StudentPersona.093755931c289494a5df.png",
+    "static/media/Sitemap.png": "/static/media/Sitemap.a2b2750787e08a3b2a9f.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.93152a28.css.map": "/static/css/main.93152a28.css.map",
-    "main.929c3cec.js.map": "/static/js/main.929c3cec.js.map",
+    "main.240029ff.css.map": "/static/css/main.240029ff.css.map",
+    "main.6f0dfa6a.js.map": "/static/js/main.6f0dfa6a.js.map",
     "787.1fce1d59.chunk.js.map": "/static/js/787.1fce1d59.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93152a28.css",
-    "static/js/main.929c3cec.js"
+    "static/css/main.240029ff.css",
+    "static/js/main.6f0dfa6a.js"
   ]
 }
