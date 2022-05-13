@@ -25,7 +25,7 @@ function Walkathon() {
             <h2>Mid-Fidelity Prototype</h2>
             <h2>A/B Testing</h2>
             <h2>Final Prototype</h2>
-                <img src={finalPrototype} />
+                <img src={finalPrototype} alt="Virtual Walkathon Website Final Prototype"/>
             <h2>Reflection</h2>
         </div>
     )
