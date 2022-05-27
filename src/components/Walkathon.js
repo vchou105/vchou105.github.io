@@ -6,7 +6,7 @@ import "../css/Project.css";
 function Walkathon() {
     return (
         <div className="caseStudy">
-            <div className="caseStudy-hero">
+            <div className="img-100">
                 <img src={VirtualWalkathon} alt="Virtual Walkathon Project"/>
             </div>
             <h2>Overview</h2>
