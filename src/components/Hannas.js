@@ -30,9 +30,16 @@ function Hannas() {
                 </div>
                 <h2>Problem</h2>
                 <p>Most gelato or ice-cream stores only offer a few different types of products.</p>
-                <p>How can we make use of the variety of prodcuts that Hanna's Creamery offers, from gelato to candies and to acai bowls, so that we create a more engaging website that attracts more site visitors for in-store stays and online order in a family-friendly and elegant manner?</p>
+                <p>How can we make use of the variety of products that Hanna's Creamery offers, from gelato to candies and to acai bowls, so that we create a more engaging website that attracts more site visitors for in-store stays and online order in a family-friendly and elegant manner?</p>
                 
                 <h2>Meeting Ali</h2>
+                <p>We met with Ali, the owner of Hanna's Creamery, to learn more about what Hanna's Creamery provides, how they're unique, and what ideal environment he would like so that we could come up with a client list to work with as we redesign their website.</p>
+                <p>Below are some of the priorities we came up with:</p>
+                <ul>
+                    <li>Align branding with family-friendly, quality product values</li>
+                    <li>Spotlight store's values and mission on landing and about page</li>
+                    <li>Increase online traffic by establishing a cohesive network of brand elements</li>
+                </ul>
                 <h2>Anyone heard of Hanna's Creamery?</h2>
                 <p>After surveying in-store customers, we came up with 3 user groups: student, family, and catering persona. </p>
                 <div className='persona img-100'>
