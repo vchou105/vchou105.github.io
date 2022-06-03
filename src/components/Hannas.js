@@ -57,6 +57,7 @@ function Hannas() {
                 <iframe style={{border: "1px solid rgba(0, 0, 0, 0.1)"}} width="800" height="450" 
                     src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEVPJ48hFVJAaGm5NIPvrng%2FCOGS-187B-Hanna's%3Fnode-id%3D137%253A3346%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D137%253A3346%26show-proto-sidebar%3D1" 
                     allowfullscreen></iframe>
+
                 <h2>User Testing & Challenges</h2>
                 <ul>
                     <li>Visual identity needs improvement</li>
@@ -65,6 +66,9 @@ function Hannas() {
                     <li>Catering form is too bland</li>
                 </ul>
                 <h2>Hi-Fidelity Prototype</h2>
+                <iframe style={{border: "1px solid rgba(0, 0, 0, 0.1)"}} width="800" height="450" 
+                    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEVPJ48hFVJAaGm5NIPvrng%2FCOGS-187B-Hanna's%3Fnode-id%3D544%253A11844%26scaling%3Dscale-down%26page-id%3D544%253A10775%26starting-point-node-id%3D544%253A11844" 
+                    allowfullscreen></iframe>
                 <h2>Reflections</h2>
             </section>
         </div>
