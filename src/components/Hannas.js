@@ -31,7 +31,7 @@ function Hannas() {
                 <h2>Problem</h2>
                 <p>Most gelato or ice-cream stores only offer a few different types of products.</p>
                 <p>How can we make use of the variety of products that Hanna's Creamery offers, from gelato to candies and to acai bowls, so that we create a more engaging website that attracts more site visitors for in-store stays and online order in a family-friendly and elegant manner?</p>
-                
+
                 <h2>Meeting Ali</h2>
                 <p>We met with Ali, the owner of Hanna's Creamery, to learn more about what Hanna's Creamery provides, how they're unique, and what ideal environment he would like so that we could come up with a client list to work with as we redesign their website.</p>
                 <p>Below are some of the priorities we came up with:</p>
@@ -54,6 +54,9 @@ function Hannas() {
                     <img src={Sitemap} alt="Sitemap" />
                 </div>
                 <h2>Low-Fidelity Prototype</h2>
+                <iframe style={{border: "1px solid rgba(0, 0, 0, 0.1)"}} width="800" height="450" 
+                    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEVPJ48hFVJAaGm5NIPvrng%2FCOGS-187B-Hanna's%3Fnode-id%3D137%253A3346%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D137%253A3346%26show-proto-sidebar%3D1" 
+                    allowfullscreen></iframe>
                 <h2>User Testing & Challenges</h2>
                 <ul>
                     <li>Visual identity needs improvement</li>
